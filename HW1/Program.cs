@@ -10,7 +10,7 @@ namespace HW1
     {
         static void Main(string[] args)
         {
-            //// HW1 TASK "B"
+            //// HW1 TASK "B"111111111
 
             //Console.WriteLine("Hi!\nPlease, enter an integer that matches the side of the square.");
             //string input = Console.ReadLine();
